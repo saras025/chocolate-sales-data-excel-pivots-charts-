@@ -1,8 +1,8 @@
 # chocolate-sales-data-excel-pivots-charts-
 hey everyone 
-heres my first project where i have used the chocolate factory sales data to get insights where i have used pivot tables and other visualisations in excel
+Heres my first mini project where i have used the chocolate factory sales data to get insights where i have used pivot tables and other visualisations in excel
 
-here are few details/insights ive got from my data: 
+**Here are few details/insights ive got from my data:
 
 1) top 5 sales person with the amt and acc to geography 
 2) top product sold by sales person acc to the amt 
